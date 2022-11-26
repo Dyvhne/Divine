@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dyvhne
 - 👀 I’m interested in ...Full Stack Development 
-- 🌱 I’m currently learning ... C++,Html,Bootstrap,Javascript
+- 🌱 I’m currently learning ... C++,Html,CSS,Bootstrap,Javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
