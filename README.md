@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dyvhne
+- 👋 Hi, I’m @Divine
 - 👀 I’m interested in ...Full Stack Development 
 - 🌱 I’m currently learning ... C++,Html,CSS,Bootstrap,Javascript
 - 💞️ I’m looking to collaborate on ...
